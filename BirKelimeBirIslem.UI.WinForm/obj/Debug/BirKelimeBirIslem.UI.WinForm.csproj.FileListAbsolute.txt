@@ -1,0 +1,102 @@
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.MyMDIForm.resources
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.Properties.Resources.resources
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.HakkimizdaForm.resources
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.IslemForm.resources
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.KelimeForm.resources
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Interfaces.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CopyComplete
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.exe
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Interfaces.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.HakkimizdaForm.resources
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.IslemForm.resources
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.KelimeForm.resources
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.MyMDIForm.resources
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.Properties.Resources.resources
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.exe
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.exe
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.UI.WinForm.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Data.Linq.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\Remotion.Interfaces.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.Model.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\LinqToExcel.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\log4net.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csprojAssemblyReference.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.HakkimizdaForm.resources
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.IslemForm.resources
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.KelimeForm.resources
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslemYeni.MyMDIForm.resources
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.Properties.Resources.resources
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.GenerateResource.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CoreCompileInputs.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.csproj.CopyComplete
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.exe
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.UI.WinForm\obj\Debug\BirKelimeBirIslem.UI.WinForm.pdb

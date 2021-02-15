@@ -1,0 +1,54 @@
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CopyComplete
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.BLL.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.DAL.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\BirKelimeBirIslem.Model.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csprojAssemblyReference.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CoreCompileInputs.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.csproj.CopyComplete
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.BLL\obj\Debug\BirKelimeBirIslem.BLL.pdb

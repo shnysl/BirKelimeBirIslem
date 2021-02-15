@@ -1,0 +1,36 @@
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\source\repos\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll.config
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.pdb
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CopyComplete
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.dll
+C:\Users\sahin\OneDrive\Masaüstü\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll.config
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\BirKelimeBirIslem.Model.pdb
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csprojAssemblyReference.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CoreCompileInputs.cache
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.csproj.CopyComplete
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.dll
+E:\C# Kursu\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Debug\BirKelimeBirIslem.Model.pdb
